@@ -1,0 +1,26 @@
+.kartu-id {
+    background-image: url(img/bg.png);
+    max-width: 630px;
+    min-width: 630px;
+    min-height: 368px;
+    max-height: 368px;
+}
+
+body {
+    background-color: #ffffff;
+    
+}
+
+.bawah {
+    height: 2.5rem;
+}
+
+.radius-atas {
+    margin-top: 2px;
+    border-radius: 0px 0px 50px 50px;
+}
+
+.radius-bawah {
+    margin-top: 9px;
+    border-radius: 100px 100px 0px 0px;
+}
